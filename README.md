@@ -62,3 +62,20 @@ The application uses Firebase Authentication and Firestore to provide shared, re
 | Git / GitHub | Version control and project repository |
   <em>Home dashboard, fixtures and results, and league standings.</em>
 </p>
+
+## Production Use
+
+The application was developed for Cove Rangers Supporters Club and has progressed from development and testing into real-world use.
+
+The project involved the complete application lifecycle, including:
+
+- Requirements based on the needs of a real supporters' organisation
+- Mobile interface and user-experience design
+- React Native application development
+- Firebase backend and authentication integration
+- Role-based administration functionality
+- Testing with real users
+- iOS build, TestFlight testing and production deployment
+- Ongoing maintenance and feature development
+
+Working with a live application has also required consideration of data integrity, authentication, user permissions and maintaining functionality while updates are introduced.
