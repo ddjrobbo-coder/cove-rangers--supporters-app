@@ -79,3 +79,14 @@ The project involved the complete application lifecycle, including:
 - Ongoing maintenance and feature development
 
 Working with a live application has also required consideration of data integrity, authentication, user permissions and maintaining functionality while updates are introduced.
+
+## Project Status
+
+The application is in production use and continues to receive maintenance and feature updates.
+
+This repository serves as a portfolio showcase of the project. Source code, Firebase configuration, credentials and other security-sensitive application data are not included in the public repository.
+
+---
+
+**David Robertson**  
+Software Developer | Technical Specialist
