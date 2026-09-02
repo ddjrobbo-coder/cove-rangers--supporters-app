@@ -47,5 +47,18 @@ The application uses Firebase Authentication and Firestore to provide shared, re
 </p>
 
 <p align="center">
+
+## Technology Stack
+
+| Technology | Use in the Application |
+|---|---|
+| React Native | Cross-platform mobile application development |
+| JavaScript | Application logic and user interface |
+| Expo | Development, testing and application builds |
+| Firebase Authentication | Secure user authentication |
+| Cloud Firestore | Real-time application data and content storage |
+| Firebase Admin SDK | Role-based administrative access |
+| React Navigation | Application navigation and screen structure |
+| Git / GitHub | Version control and project repository |
   <em>Home dashboard, fixtures and results, and league standings.</em>
 </p>
