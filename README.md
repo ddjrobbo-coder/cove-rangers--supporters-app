@@ -47,5 +47,5 @@ The application uses Firebase Authentication and Firestore to provide shared, re
 </p>
 
 <p align="center">
-  <em>Home dashboard, fixtures and results, and live league standings.</em>
+  <em>Home dashboard, fixtures and results, and league standings.</em>
 </p>
